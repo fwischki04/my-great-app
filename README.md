@@ -1,4 +1,4 @@
-<h1>Next.js Resume<\h1>
+<h1>Next.js Resume</h1>
 
 A single-page resume website built with Next.js and styled with Tailwind CSS.
 
